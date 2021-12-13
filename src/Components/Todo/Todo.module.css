@@ -1,0 +1,19 @@
+.myinp {
+  /* border: 2px solid red; */
+  width: 350px;
+  margin: auto;
+}
+.myinp input {
+  width: 250px;
+  height: 30px;
+  margin-right: 10px;
+  border: 5px solid greenyellow;
+}
+
+.myinp button {
+  width: 50px;
+  height: 30px;
+  background: blue;
+  color: #ffffff;
+  border-radius: 8px;
+}
